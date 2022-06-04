@@ -45,18 +45,14 @@ Now I started to learn TypeScript and React.
 
 ## Project example
 
-[Movie App](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30movie-app/)  
-[Portfolio Photo](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/portfolio/)  
-
-[Audio player](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30audio-player/)  
-[Image Gallery](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30image-gallery/)  
-
-[Random Game](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-game/)  
-[Random Jokes](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-jokes/)  
-
-[Eco-sound](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30eco-sounds/)  
+[Movie App](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30movie-app/)
+[Portfolio Photo](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/portfolio/)
+[Audio player](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30audio-player/)
+[Image Gallery](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30image-gallery/)
+[Random Game](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-game/)
+[Random Jokes](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-jokes/)
+[Eco-sound](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30eco-sounds/)
 [Climate Change News API](https://github.com/leshiy77/climate-change-api)
-
 [Virtual Keyboard](https://leshiy77.github.io/RSSVirtualKeyboard/dir/)
 [Landing Page for Shelter](https://rolling-scopes-school.github.io/leshiy77-JSFE2022Q1/shelter/pages/main/)
 
