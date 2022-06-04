@@ -1,19 +1,19 @@
-### Hi there 👋 I'm Roman,
+# Hi there 👋 I'm Roman
 
-***
-## I'm Junior FrontEnd Developer.
+## I'm Junior FrontEnd Developer
 
 I completed JavaScript FrontEnd course at RSSchool in 2022, and I hope to get my first job in this direction.
 Now I started to learn TypeScript and React.
 
 ***
-### My skills:
+
+### My skills
 
 |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 |:----------------------------------:|:--------------------------------:|:--------------------------------------------:|
 |junior knowledge                    | junior knowledge                 | junior knowledge                             |
 
-#### in my pet projects i use:
+#### in my pet projects i use
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -26,7 +26,6 @@ Now I started to learn TypeScript and React.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 #### my stats
 
 [![CodewarsLogo](https://www.codewars.com/users/leshiy77/badges/large)](https://www.codewars.com/users/leshiy77)
@@ -34,6 +33,7 @@ Now I started to learn TypeScript and React.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leshiy77)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
+
 ## Contacts
 
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)|*edinorog15*|![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)| [mail me](mailto:roman.kozhara@gmail.com)
@@ -43,7 +43,7 @@ Now I started to learn TypeScript and React.
 
 ***
 
-## Project example 
+## Project example
 
 [Movie App](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30movie-app/)  
 [Portfolio Photo](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/portfolio/)  
@@ -57,15 +57,18 @@ Now I started to learn TypeScript and React.
 [Eco-sound](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30eco-sounds/)  
 [Climate Change News API](https://github.com/leshiy77/climate-change-api)
 
-[Virtual Keyboard](https://leshiy77.github.io/RSSVirtualKeyboard/dir/) 
+[Virtual Keyboard](https://leshiy77.github.io/RSSVirtualKeyboard/dir/)
 [Landing Page for Shelter](https://rolling-scopes-school.github.io/leshiy77-JSFE2022Q1/shelter/pages/main/)
+
 ***
+
 ## Education
 
 2000 - Donetsk University of Economics and Trade
 Management specialist
 
 ***
+
 ## Language
 
 Russian - native
