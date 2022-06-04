@@ -18,7 +18,7 @@ I completed my JavaScript FrontEnd course at RSSchool in 2022. I hope to get my 
 ***
 ## Contacts
 
-![skypeLogo](img/skype.png)          | *edinorog15*                             | ![emailLogo](img/gmail.png)       | [mailto]_roman.kozhara@gmail.com_
+![skypeLogo](img/skype.png)          | *edinorog15*                             | ![emailLogo](img/gmail.png)       | [mail me](mailto:_roman.kozhara@gmail.com_)
 -----------------------------------------|:-------------------------------------|---------------------------------------|:--------------------------
 ![discordLogo](img/discord.png)      | @leshiy77                                  | ![telLogo](img/phone.png)          | +380507604577
 ![telegramLogo](img/telegram.png) | [send me](https://t.me/benyarif) | ![GitHubLogo](img/GITHUB.png) | @leshiy77
