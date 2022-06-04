@@ -25,7 +25,7 @@ I completed my JavaScript FrontEnd course at RSSchool in 2022. I hope to get my 
 
 ***
 
-![Roman GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77)](https://github.com/leshiy77/github-readme-stats)
+![Roman GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true&theme=merko)
 
 ## Project example 
 
