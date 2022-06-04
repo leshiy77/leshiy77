@@ -9,23 +9,36 @@ I completed my JavaScript FrontEnd course at RSSchool in 2022. I hope to get my 
 ***
 ### My skills:
 
-|![pythonLogo](img/Python.png) | ![HTML5logo](img/html5.png) | ![CSS3logo](img/css3.png) | ![JavaScriptLogo](img/javascript.png) |
-|:----------------------------------:|:---------------------------------:|:------------------------------:|:------------------------------------------:|
-|basic knowledge                       |junior knowledge                     | junior knowledge                | junior knowledge                               |
+| ![HTML5logo](img/html5.png) | ![CSS3logo](img/css3.png) | ![JavaScriptLogo](img/javascript.png) |
+|:---------------------------:|:-------------------------:|:-------------------------------------:|
+|junior knowledge             | junior knowledge          | junior knowledge                      |
+
+#### in my pet projects i use:
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+
+#### my stats
 
 ![CodewarsLogo](https://www.codewars.com/users/leshiy77/badges/large)
+![Roman GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true&theme=merko)
 
 ***
 ## Contacts
 
-![skypeLogo](img/skype.png)          | *edinorog15*                             | ![emailLogo](img/gmail.png)       | [mail me](mailto:_roman.kozhara@gmail.com_)
------------------------------------------|:-------------------------------------|---------------------------------------|:--------------------------
-![discordLogo](img/discord.png)      | @leshiy77                                  | ![telLogo](img/phone.png)          | +380507604577
-![telegramLogo](img/telegram.png) | [send me](https://t.me/benyarif) | ![GitHubLogo](img/GITHUB.png) | @leshiy77
+![skypeLogo](img/skype.png)          | *edinorog15*                         | ![emailLogo](img/gmail.png)       | [mail me](mailto:_roman.kozhara@gmail.com_)
+-------------------------------------|:-------------------------------------|-----------------------------------|:--------------------------
+![discordLogo](img/discord.png)      | @leshiy77                            | ![telLogo](img/phone.png)         | +380507604577
+![telegramLogo](img/telegram.png)    | [send me](https://t.me/benyarif)     | ![GitHubLogo](img/GITHUB.png)     | @leshiy77
 
 ***
-
-![Roman GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true&theme=merko)
 
 ## Project example 
 
