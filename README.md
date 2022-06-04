@@ -3,14 +3,13 @@
 ***
 ## I'm Junior FrontEnd Developer.
 
-I'm 44 years old. For 20 years I have worked in sales at all levels. I have experience in implementing large projects, as well as managing industrial enterprises. Because of the crisis, I decided to fulfill my youthful desires and become a programmer.
-I completed my JavaScript FrontEnd course at RSSchool in 2022. I hope to get my first job in this direction.
-I have now started to learn typescript and React.
+I completed JavaScript FrontEnd course at RSSchool in 2022, and I hope to get my first job in this direction.
+Now I started to learn TypeScript and React.
 
 ***
 ### My skills:
 
-| ![HTML5logo](assets/svg/html5.svg) | ![CSS3logo](assets/svg/css3.svg) | ![JavaScriptLogo](assets/svg/javascript.svg) |
+|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 |:----------------------------------:|:--------------------------------:|:--------------------------------------------:|
 |junior knowledge                    | junior knowledge                 | junior knowledge                             |
 
@@ -31,7 +30,7 @@ I have now started to learn typescript and React.
 #### my stats
 
 [![CodewarsLogo](https://www.codewars.com/users/leshiy77/badges/large)](https://www.codewars.com/users/leshiy77)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leshiy77)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
@@ -47,23 +46,21 @@ I have now started to learn typescript and React.
 ## Project example 
 
 [Movie App](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30movie-app/)  
-
 [Portfolio Photo](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/portfolio/)  
 
 [Audio player](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30audio-player/)  
-
 [Image Gallery](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30image-gallery/)  
 
 [Random Game](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-game/)  
-
 [Random Jokes](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-jokes/)  
 
 [Eco-sound](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30eco-sounds/)  
+[Climate Change News API](https://github.com/leshiy77/climate-change-api)
 
+[Virtual Keyboard](https://leshiy77.github.io/RSSVirtualKeyboard/dir/) 
+[Landing Page for Shelter](https://rolling-scopes-school.github.io/leshiy77-JSFE2022Q1/shelter/pages/main/)
 ***
 ## Education
-
-![University-logo](img/university.png)
 
 2000 - Donetsk University of Economics and Trade
 Management specialist
