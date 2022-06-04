@@ -28,7 +28,8 @@ I completed my JavaScript FrontEnd course at RSSchool in 2022. I hope to get my 
 #### my stats
 
 ![CodewarsLogo](https://www.codewars.com/users/leshiy77/badges/large)
-![Roman GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true&theme=merko)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leshiy77)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 ## Contacts
