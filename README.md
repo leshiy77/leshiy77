@@ -5,11 +5,12 @@
 
 I'm 44 years old. For 20 years I have worked in sales at all levels. I have experience in implementing large projects, as well as managing industrial enterprises. Because of the crisis, I decided to fulfill my youthful desires and become a programmer.
 I completed my JavaScript FrontEnd course at RSSchool in 2022. I hope to get my first job in this direction.
+I have now started to learn typescript and React.
 
 ***
 ### My skills:
 
-| ![HTML5logo](img/html5.png) | ![CSS3logo](img/css3.png) | ![JavaScriptLogo](img/javascript.png) |
+| ![HTML5logo](assets/svg/html5.svg=64) | ![CSS3logo](img/css3.png) | ![JavaScriptLogo](img/javascript.png) |
 |:---------------------------:|:-------------------------:|:-------------------------------------:|
 |junior knowledge             | junior knowledge          | junior knowledge                      |
 
@@ -27,7 +28,7 @@ I completed my JavaScript FrontEnd course at RSSchool in 2022. I hope to get my 
 
 #### my stats
 
-![CodewarsLogo](https://www.codewars.com/users/leshiy77/badges/large)
+[![CodewarsLogo](https://www.codewars.com/users/leshiy77/badges/large)](https://www.codewars.com/users/leshiy77)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=leshiy77&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leshiy77)](https://github.com/anuraghazra/github-readme-stats)
 
