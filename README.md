@@ -10,9 +10,9 @@ I have now started to learn typescript and React.
 ***
 ### My skills:
 
-| ![HTML5logo](assets/svg/html5.svg) | ![CSS3logo](img/css3.png) | ![JavaScriptLogo](img/javascript.png) |
-|:---------------------------:|:-------------------------:|:-------------------------------------:|
-|junior knowledge             | junior knowledge          | junior knowledge                      |
+| ![HTML5logo](assets/svg/html5.svg) | ![CSS3logo](assets/svg/css3.svg) | ![JavaScriptLogo](assets/svg/javascript.svg) |
+|:----------------------------------:|:--------------------------------:|:--------------------------------------------:|
+|junior knowledge                    | junior knowledge                 | junior knowledge                             |
 
 #### in my pet projects i use:
 
@@ -24,6 +24,8 @@ I have now started to learn typescript and React.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 #### my stats
@@ -35,10 +37,10 @@ I have now started to learn typescript and React.
 ***
 ## Contacts
 
-![skypeLogo](img/skype.png)          | *edinorog15*                         | ![emailLogo](img/gmail.png)       | [mail me](mailto:_roman.kozhara@gmail.com_)
+![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)|*edinorog15*|![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)| [mail me](mailto:roman.kozhara@gmail.com)
 -------------------------------------|:-------------------------------------|-----------------------------------|:--------------------------
-![discordLogo](img/discord.png)      | @leshiy77                            | ![telLogo](img/phone.png)         | +380507604577
-![telegramLogo](img/telegram.png)    | [send me](https://t.me/benyarif)     | ![GitHubLogo](img/GITHUB.png)     | @leshiy77
+!![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)|*@leshiy77*|![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)| *+380507604577*
+!![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)|[send me](https://t.me/benyarif)|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|*@leshiy77*
 
 ***
 
