@@ -10,7 +10,7 @@ I have now started to learn typescript and React.
 ***
 ### My skills:
 
-| ![HTML5logo](assets/svg/html5.svg=64) | ![CSS3logo](img/css3.png) | ![JavaScriptLogo](img/javascript.png) |
+| ![HTML5logo](assets/svg/html5.svg) | ![CSS3logo](img/css3.png) | ![JavaScriptLogo](img/javascript.png) |
 |:---------------------------:|:-------------------------:|:-------------------------------------:|
 |junior knowledge             | junior knowledge          | junior knowledge                      |
 
