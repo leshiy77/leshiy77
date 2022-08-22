@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Roman
 
-## I'm Junior FrontEnd Developer
+## I want to be FrontEnd Developer
 
 I completed JavaScript FrontEnd course at RSSchool in 2022, and I hope to get my first job in this direction.
 Now I started to learn TypeScript and React.
@@ -11,7 +11,7 @@ Now I started to learn TypeScript and React.
 
 |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 |:----------------------------------:|:--------------------------------:|:--------------------------------------------:|
-|junior knowledge                    | junior knowledge                 | junior knowledge                             |
+|basic knowledge                    | basic knowledge                 | basic knowledge                             |
 
 #### in my pet projects i use
 
