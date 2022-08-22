@@ -3,7 +3,7 @@
 ## I want to be FrontEnd Developer
 
 I completed JavaScript FrontEnd course at RSSchool in 2022, and I hope to get my first job in this direction.
-Now I started to learn TypeScript and React.
+Now I started to learn TypeScript and React or Angular.
 
 ***
 
